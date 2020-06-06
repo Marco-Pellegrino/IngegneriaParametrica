@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="101"
+   inkscape:export-xdpi="101"
+   inkscape:export-filename="C:\Users\FORMAT\Desktop\IngegneriaParametrica_Logo.png"
+   width="1200"
+   height="396.09167"
+   viewBox="0 0 317.49999 104.79927"
+   version="1.1"
+   id="svg1412"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="IngegneriaParametrica_Logo.svg">
+  <defs
+     id="defs1406" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="767.66611"
+     inkscape:cy="307.80467"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1424"
+     inkscape:window-height="1030"
+     inkscape:window-x="387"
+     inkscape:window-y="140"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata1409">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.027px;line-height:1.05;font-family:sans-serif;letter-spacing:-0.264583px;word-spacing:-5.29167px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.250676"
+       x="61.273861"
+       y="55.302464"
+       id="text1977"><tspan
+         sodipodi:role="line"
+         id="tspan1975"
+         x="61.273861"
+         y="55.302464"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3911px;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.250676"
+         dy="0.028423177">Ingegneria Parametrica</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.382;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 26.212816,28.197967 48.472815,38.935148 31.974228,54.909962 20.189524,40.506443 Z"
+       id="path1993" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.382;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 48.472815,38.935148 47.163403,59.100084 31.974228,54.909962"
+       id="path1995" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.382;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 47.163403,59.100084 27.260345,69.051613 22.284582,65.385257 31.974228,54.909962"
+       id="path1997" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.382;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 22.284582,65.385257 11.547402,52.029259 20.189524,40.506443"
+       id="path1999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.382;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 26.212816,28.197967 14.689991,38.411373 11.547402,52.029259"
+       id="path2001" />
+  </g>
+</svg>
