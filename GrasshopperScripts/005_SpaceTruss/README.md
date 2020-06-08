@@ -1,0 +1,1 @@
+![](images/SpaceTruss_ScriptPreview.png)

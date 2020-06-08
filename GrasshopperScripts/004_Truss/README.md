@@ -1,0 +1,1 @@
+![](images/Truss_ScriptPreview.png)
