@@ -7,7 +7,7 @@ Installation
 =============
 In order to run the scripts, the following softwares should be installed:
 - [Rhino3d/Grasshopper](https://www.rhino3d.com/)
-- [Karamba3d](www.karamba3d.com)
+- [Karamba3d](https://www.karamba3d.com/)
 
 Disclaimer
 ============
