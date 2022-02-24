@@ -1,0 +1,27 @@
+Day 1
+
+Esempi parametrici di strutture:
+	- trave semplicemente appoggiata
+	- trave continua su n-appoggi
+	- modellazione arco
+	- arco su n-appoggi
+
+Installare qualche plug-in:
+
+	- brick box
+	- lunch box
+	- Thornton Tomasetti
+	- human
+
+Tool generici da sharare:
+
+	- Salvare le combinazioni di carico
+	- script per ottimizzare spline in serie di archi ---> connettiamolo allo script per calcolare l'arco	
+	- visualizzare dati sullo schermo
+
+Day 2
+
+Reticolare spaziale
+ottimizzazione con Karamba Cross Section
+Palazzina che segue una curva, geometria da loft una curva generica
+

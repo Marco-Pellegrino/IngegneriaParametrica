@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<propertyFile xmlns="http://www.csiberkeley.com"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.csiberkeley.com CSiMaterialLibrary.xsd">
+
+  <!-- This file should be validated against the schema file. 
+       If there are any validation errors in this file, the entire file is ignored.
+  -->
+
+  <control lengthUnits="mm" forceUnits="N">
+    <fileID>CSI Material Library for Europe</fileID>
+    <fileVersion>1.1</fileVersion>
+    <fileDescription>Built-in Material Property templates for Europe</fileDescription>
+  </control>
+
+  <region name="Europe" lengthUnits="mm" forceUnits="N">
+
+    <collection type="Materials">
+
+      <standard name="EN 1993-1-1 per EN 10025-2">
+        
+<!-- STEEL MATERIALS -->        
+
+        <material type="Steel" grade="S235" name="S235">
+          <weightDensity>0.0000769728639422648</weightDensity>
+          <massDensity>0.00000000784904737995992</massDensity>
+          <modulusOfElasticity>210000</modulusOfElasticity>
+          <poissonsRatio>0.3</poissonsRatio>
+          <coefficientOfThermalExpansion>0.0000117</coefficientOfThermalExpansion>
+
+          <minimumYieldStress>235</minimumYieldStress>
+          <minimumTensileStress>360</minimumTensileStress>
+          <effectiveYieldStress>258.5</effectiveYieldStress>
+          <effectiveTensileStress>396</effectiveTensileStress>
+          <strainAtHardening>0.015</strainAtHardening>
+          <strainAtMaxStress>0.11</strainAtMaxStress>
+          <strainAtRupture>0.17</strainAtRupture>
+        </material>
+
+        <material type="Steel" grade="S275" name="S275">
+          <weightDensity>0.0000769728639422648</weightDensity>
+          <massDensity>0.00000000784904737995992</massDensity>
+          <modulusOfElasticity>210000</modulusOfElasticity>
+          <poissonsRatio>0.3</poissonsRatio>
+          <coefficientOfThermalExpansion>0.0000117</coefficientOfThermalExpansion>
+
+          <minimumYieldStress>275</minimumYieldStress>
+          <minimumTensileStress>430</minimumTensileStress>
+          <effectiveYieldStress>302.5</effectiveYieldStress>
+          <effectiveTensileStress>473</effectiveTensileStress>
+          <strainAtHardening>0.015</strainAtHardening>
+          <strainAtMaxStress>0.11</strainAtMaxStress>
+          <strainAtRupture>0.17</strainAtRupture>
+        </material>
+
+        <material type="Steel" grade="S355" name="S355" isDefault="true">
+          <weightDensity>0.0000769728639422648</weightDensity>
+          <massDensity>0.00000000784904737995992</massDensity>
+          <modulusOfElasticity>210000</modulusOfElasticity>
+          <poissonsRatio>0.3</poissonsRatio>
+          <coefficientOfThermalExpansion>0.0000117</coefficientOfThermalExpansion>
+
+          <minimumYieldStress>355</minimumYieldStress>
+          <minimumTensileStress>510</minimumTensileStress>
+          <effectiveYieldStress>390.5</effectiveYieldStress>
+          <effectiveTensileStress>561</effectiveTensileStress>
+          <strainAtHardening>0.015</strainAtHardening>
+          <strainAtMaxStress>0.11</strainAtMaxStress>
+          <strainAtRupture>0.17</strainAtRupture>
+        </material>
+
+        <material type="Steel" grade="S450" name="S450">
+          <weightDensity>0.0000769728639422648</weightDensity>
+          <massDensity>0.00000000784904737995992</massDensity>
+          <modulusOfElasticity>210000</modulusOfElasticity>
+          <poissonsRatio>0.3</poissonsRatio>
+          <coefficientOfThermalExpansion>0.0000117</coefficientOfThermalExpansion>
+
+          <minimumYieldStress>440</minimumYieldStress>
+          <minimumTensileStress>550</minimumTensileStress>
+          <effectiveYieldStress>484</effectiveYieldStress>
+          <effectiveTensileStress>605</effectiveTensileStress>
+          <strainAtHardening>0.015</strainAtHardening>
+          <strainAtMaxStress>0.11</strainAtMaxStress>
+          <strainAtRupture>0.17</strainAtRupture>
+        </material>
+
+      </standard>
+
+      <standard name="EN 1992-1-1 per EN 206-1">
+
+<!-- CONCRETE MATERIALS-->
+
+        <material type="concrete" grade="C12/15" name="C12/15">
+          <weightDensity>0.00002499261766</weightDensity>
+          <massDensity>0.0000000025485377</massDensity>
+          <modulusOfElasticity>27000.0000</modulusOfElasticity>
+          <poissonsRatio>0.2</poissonsRatio>
+          <coefficientOfThermalExpansion>0.00001</coefficientOfThermalExpansion>
+          <compressiveStrength>12</compressiveStrength>
+	  <expectedCompressiveStrength>12</expectedCompressiveStrength>
+          <strainAtfc>0.00088889</strainAtfc>
+          <strainAtUltimate>0.005</strainAtUltimate>
+          <isLightWeight>false</isLightWeight>
+          <shearStrengthReductionFactor>1</shearStrengthReductionFactor>
+        </material>
+        
+        <material type="concrete" grade="C16/20" name="C16/20">
+          <weightDensity>0.00002499261766</weightDensity>
+          <massDensity>0.0000000025485377</massDensity>
+          <modulusOfElasticity>29000.0000</modulusOfElasticity>
+          <poissonsRatio>0.2</poissonsRatio>
+          <coefficientOfThermalExpansion>0.00001</coefficientOfThermalExpansion>
+          <compressiveStrength>16</compressiveStrength>
+	  <expectedCompressiveStrength>16</expectedCompressiveStrength>
+          <strainAtfc>0.00110345</strainAtfc>
+          <strainAtUltimate>0.005</strainAtUltimate>
+          <isLightWeight>false</isLightWeight>
+          <shearStrengthReductionFactor>1</shearStrengthReductionFactor>
+        </material>
+        
+        <material type="concrete" grade="C20/25" name="C20/25">
+          <weightDensity>0.00002499261766</weightDensity>
+          <massDensity>0.0000000025485377</massDensity>
+          <modulusOfElasticity>30000.0000</modulusOfElasticity>
+          <poissonsRatio>0.2</poissonsRatio>
+          <coefficientOfThermalExpansion>0.00001</coefficientOfThermalExpansion>
+          <compressiveStrength>20</compressiveStrength>
+	  <expectedCompressiveStrength>20</expectedCompressiveStrength>
+          <strainAtfc>0.00133333</strainAtfc>
+          <strainAtUltimate>0.005</strainAtUltimate>
+          <isLightWeight>false</isLightWeight>
+          <shearStrengthReductionFactor>1</shearStrengthReductionFactor>
+        </material>
+        
+        <material type="concrete" grade="C25/30" name="C25/30">
+          <weightDensity>0.00002499261766</weightDensity>
+          <massDensity>0.0000000025485377</massDensity>
+          <modulusOfElasticity>31000.0000</modulusOfElasticity>
+          <poissonsRatio>0.2</poissonsRatio>
+          <coefficientOfThermalExpansion>0.00001</coefficientOfThermalExpansion>
+          <compressiveStrength>25</compressiveStrength>
+	  <expectedCompressiveStrength>25</expectedCompressiveStrength>
+          <strainAtfc>0.00161290</strainAtfc>
+          <strainAtUltimate>0.005</strainAtUltimate>
+          <isLightWeight>false</isLightWeight>
+          <shearStrengthReductionFactor>1</shearStrengthReductionFactor>
+        </material>
+        
+        <material type="concrete" grade="C30/37" name="C30/37" isDefault="true">
+          <weightDensity>0.00002499261766</weightDensity>
+          <massDensity>0.0000000025485377</massDensity>
+          <modulusOfElasticity>33000.0000</modulusOfElasticity>
+          <poissonsRatio>0.2</poissonsRatio>
+          <coefficientOfThermalExpansion>0.00001</coefficientOfThermalExpansion>
+          <compressiveStrength>30</compressiveStrength>
+	  <expectedCompressiveStrength>30</expectedCompressiveStrength>
+          <strainAtfc>0.00181818</strainAtfc>
+          <strainAtUltimate>0.005</strainAtUltimate>
+          <isLightWeight>false</isLightWeight>
+          <shearStrengthReductionFactor>1</shearStrengthReductionFactor>
+        </material>
+        
+        <material type="concrete" grade="C35/45" name="C35/45">
+          <weightDensity>0.00002499261766</weightDensity>
+          <massDensity>0.0000000025485377</massDensity>
+          <modulusOfElasticity>34000.0000</modulusOfElasticity>
+          <poissonsRatio>0.2</poissonsRatio>
+          <coefficientOfThermalExpansion>0.00001</coefficientOfThermalExpansion>
+          <compressiveStrength>35</compressiveStrength>
+	  <expectedCompressiveStrength>35</expectedCompressiveStrength>
+          <strainAtfc>0.00205882</strainAtfc>
+          <strainAtUltimate>0.005</strainAtUltimate>
+          <isLightWeight>false</isLightWeight>
+          <shearStrengthReductionFactor>1</shearStrengthReductionFactor>
+        </material>
+        
+        <material type="concrete" grade="C40/50" name="C40/50">
+          <weightDensity>0.00002499261766</weightDensity>
+          <massDensity>0.0000000025485377</massDensity>
+          <modulusOfElasticity>35000.0000</modulusOfElasticity>
+          <poissonsRatio>0.2</poissonsRatio>
+          <coefficientOfThermalExpansion>0.00001</coefficientOfThermalExpansion>
+          <compressiveStrength>40</compressiveStrength>
+	  <expectedCompressiveStrength>40</expectedCompressiveStrength>
+          <strainAtfc>0.00228571</strainAtfc>
+          <strainAtUltimate>0.005</strainAtUltimate>
+          <isLightWeight>false</isLightWeight>
+          <shearStrengthReductionFactor>1</shearStrengthReductionFactor>
+        </material>
+        
+        <material type="concrete" grade="C45/55" name="C45/55">
+          <weightDensity>0.00002499261766</weightDensity>
+          <massDensity>0.0000000025485377</massDensity>
+          <modulusOfElasticity>36000.0000</modulusOfElasticity>
+          <poissonsRatio>0.2</poissonsRatio>
+          <coefficientOfThermalExpansion>0.00001</coefficientOfThermalExpansion>
+          <compressiveStrength>45</compressiveStrength>
+	  <expectedCompressiveStrength>45</expectedCompressiveStrength>
+          <strainAtfc>0.00250000</strainAtfc>
+          <strainAtUltimate>0.005</strainAtUltimate>
+          <isLightWeight>false</isLightWeight>
+          <shearStrengthReductionFactor>1</shearStrengthReductionFactor>
+        </material>
+        
+        <material type="concrete" grade="C50/60" name="C50/60">
+          <weightDensity>0.00002499261766</weightDensity>
+          <massDensity>0.0000000025485377</massDensity>
+          <modulusOfElasticity>37000.0000</modulusOfElasticity>
+          <poissonsRatio>0.2</poissonsRatio>
+          <coefficientOfThermalExpansion>0.00001</coefficientOfThermalExpansion>
+          <compressiveStrength>50</compressiveStrength>
+	  <expectedCompressiveStrength>50</expectedCompressiveStrength>
+          <strainAtfc>0.00270270</strainAtfc>
+          <strainAtUltimate>0.005</strainAtUltimate>
+          <isLightWeight>false</isLightWeight>
+          <shearStrengthReductionFactor>1</shearStrengthReductionFactor>
+        </material>
+        
+        <material type="concrete" grade="C55/67" name="C55/67">
+          <weightDensity>0.00002499261766</weightDensity>
+          <massDensity>0.0000000025485377</massDensity>
+          <modulusOfElasticity>38000.0000</modulusOfElasticity>
+          <poissonsRatio>0.2</poissonsRatio>
+          <coefficientOfThermalExpansion>0.00001</coefficientOfThermalExpansion>
+          <compressiveStrength>55</compressiveStrength>
+	  <expectedCompressiveStrength>55</expectedCompressiveStrength>
+          <strainAtfc>0.00289474</strainAtfc>
+          <strainAtUltimate>0.005</strainAtUltimate>
+          <isLightWeight>false</isLightWeight>
+          <shearStrengthReductionFactor>1</shearStrengthReductionFactor>
+        </material>
+        
+        <material type="concrete" grade="C60/75" name="C60/75">
+          <weightDensity>0.00002499261766</weightDensity>
+          <massDensity>0.0000000025485377</massDensity>
+          <modulusOfElasticity>39000.0000</modulusOfElasticity>
+          <poissonsRatio>0.2</poissonsRatio>
+          <coefficientOfThermalExpansion>0.00001</coefficientOfThermalExpansion>
+          <compressiveStrength>60</compressiveStrength>
+	  <expectedCompressiveStrength>60</expectedCompressiveStrength>
+          <strainAtfc>0.00307692</strainAtfc>
+          <strainAtUltimate>0.005</strainAtUltimate>
+          <isLightWeight>false</isLightWeight>
+          <shearStrengthReductionFactor>1</shearStrengthReductionFactor>
+        </material>
+        
+        <material type="concrete" grade="C70/85" name="C70/85">
+          <weightDensity>0.00002499261766</weightDensity>
+          <massDensity>0.0000000025485377</massDensity>
+          <modulusOfElasticity>41000.0000</modulusOfElasticity>
+          <poissonsRatio>0.2</poissonsRatio>
+          <coefficientOfThermalExpansion>0.00001</coefficientOfThermalExpansion>
+          <compressiveStrength>70</compressiveStrength>
+	  <expectedCompressiveStrength>70</expectedCompressiveStrength>
+          <strainAtfc>0.00341463</strainAtfc>
+          <strainAtUltimate>0.005</strainAtUltimate>
+          <isLightWeight>false</isLightWeight>
+          <shearStrengthReductionFactor>1</shearStrengthReductionFactor>
+        </material>
+        
+        <material type="concrete" grade="C80/95" name="C80/95">
+          <weightDensity>0.00002499261766</weightDensity>
+          <massDensity>0.0000000025485377</massDensity>
+          <modulusOfElasticity>42000.0000</modulusOfElasticity>
+          <poissonsRatio>0.2</poissonsRatio>
+          <coefficientOfThermalExpansion>0.00001</coefficientOfThermalExpansion>
+          <compressiveStrength>80</compressiveStrength>
+	  <expectedCompressiveStrength>80</expectedCompressiveStrength>
+          <strainAtfc>0.00380952</strainAtfc>
+          <strainAtUltimate>0.005</strainAtUltimate>
+          <isLightWeight>false</isLightWeight>
+          <shearStrengthReductionFactor>1</shearStrengthReductionFactor>
+        </material>
+        
+        <material type="concrete" grade="C90/105" name="C90/105">
+          <weightDensity>0.00002499261766</weightDensity>
+          <massDensity>0.0000000025485377</massDensity>
+          <modulusOfElasticity>44000.0000</modulusOfElasticity>
+          <poissonsRatio>0.2</poissonsRatio>
+          <coefficientOfThermalExpansion>0.00001</coefficientOfThermalExpansion>
+          <compressiveStrength>90</compressiveStrength>
+	  <expectedCompressiveStrength>90</expectedCompressiveStrength>
+          <strainAtfc>0.00409091</strainAtfc>
+          <strainAtUltimate>0.005</strainAtUltimate>
+          <isLightWeight>false</isLightWeight>
+          <shearStrengthReductionFactor>1</shearStrengthReductionFactor>
+        </material>
+
+      </standard>
+    </collection>
+  </region>
+</propertyFile>

@@ -1,0 +1,30 @@
+Location: Vienna, Austria
+Venue: Sichtart e.U., Mariahilfer Straﬂer 112/1/9 Vienna 1070
+Dates: November  28 - 30, 2018
+Time: 10:00 - 18:00
+Course Fee: Professional EUR 750 (+VAT), Student EUR 375 (+VAT) 
+Places are limited to a maximum of 10 participants with limited educational places. A minimum of 4 places are required for the workshop to take place. The workshop will be cancelled should this quota not be filled by October 15th.
+
+Lead by plugin developer and structural engineer Clemens Preisinger, along with Zeynep Aksoz & Matthew Tam from the expert Karamba3d team, this three day workshop will focus on methods of setting up structural systems in the parametric environment of Grasshopper. Participants will be guided through the basics of analysing and interpreting structural models, to optimisation processes and how to integrate Karamba3d into C# scripts. 
+
+This workshop is aimed towards beginner to intermediate users of Karamba however advanced users are also encouraged to apply. It is open to both professional and academic users. 
+
+Karamba3d is a parametric structural engineering tool which provides accurate analysis of spatial trusses, frames and shells. Karamba3d is fully embedded in the parametric design environment of Grasshopper, a plug-in for the 3d modeling tool Rhinoceros. This makes it easy to combine parameterized geometric models, finite element calculations and optimization algorithms like Galapagos.
+
+
+Course Outline
+Introduction & Presentation of project examples
+Optimization of cross sections of line based and surface based elements
+Geometric optimization
+Topological Optimization
+Structural Performance Informed Form Finding
+Understanding analysis algorithms embedded in Karamba and visualising results
+Complex Workflow processes in Rhino3d, Grasshopper3d and Karamba3d
+Requirements
+The workshop will be taught in English.
+Basic Rhino and Grasshopper knowledge is recommended.
+No knowledge of Karamba is needed.
+
+Participants should bring their own laptops with either Rhino5/Rhino6 and Grasshopper3d installed. A 90 day trial version of Rhino can be downloaded from Rhino3D.
+
+Karamba Ω year licenses for non-commercial use will be provided to all participants.

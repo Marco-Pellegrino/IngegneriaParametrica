@@ -1,0 +1,37 @@
+ SAP2000 v18.2.0 Ultimate 64-bit (Analysis Build 9503/64)                       
+ File: C:\Users\Marco\Ingegner...ca\17_Cantina Antinori\FEM\Cantina Antinori.OUT
+                                                                     
+                                                                       
+
+ D I S P L A C E M E N T   D E G R E E S   O F   F R E E D O M
+
+         (A) = Active DOF, equilibrium equation
+         (-) = Restrained DOF, reaction computed
+         (+) = Constrained DOF
+         (>) = External substructure DOF
+         ( ) = Null DOF
+
+  JOINTS              UX  UY  UZ  RX  RY  RZ
+  ggGHn1               -   -   -   -   -   -
+  ggGHn2 TO  ggGHn6    A   A   A   A   A   A
+  ggGHn8 TO  ggGHn7    -   -   -   -   -   -
+  ggGHn9 TO ggGHn22    A   A   A   A   A   A
+ ggGHn24 TO ggGHn23    -   -   -   -   -   -
+ ggGHn26 TO ggGHn45    A   A   A   A   A   A
+ ggGHn47 TO ggGHn46    -   -   -   -   -   -
+ ggGHn49 TO ggGHn74    A   A   A   A   A   A
+ ggGHn80 TO ggGHn76    -   -   -   -   -   -
+ ggGHn82 TO ggGHn98    A   A   A   A   A   A
+
+  JOINTS              UX  UY  UZ  RX  RY  RZ
+ gGHn101 TO gGHn298    A   A   A   A   A   A
+ gGHn300               -   -   -   -   -   -
+ gGHn302 TO gGHn389    A   A   A   A   A   A
+ gGHn392 TO gGHn391    -   -   -   -   -   -
+ gGHn394 TO gGHn515    A   A   A   A   A   A
+ gGHn518 TO gGHn517    -   -   -   -   -   -
+ gGHn520 TO gGHn685    A   A   A   A   A   A
+ gGHn687 TO gGHn686    -   -   -   -   -   -
+ gGHn689 TO gGHn932    A   A   A   A   A   A
+ gGHn938 TO gGHn934    -   -   -   -   -   -
+ gGHn940 TO gGHn380    A   A   A   A   A   A
